@@ -1,3 +1,14 @@
+# Aakarsh's First CS193 Homework
+
+- I'm genuinely excited to be a part of the class.
+- The Teachers are amazing and easy to interact with.
+- All the students are in similar majors which bolsters cooperation.
+- The course is not extremely rigorous and hence fun.
+- It's straight to the point and doesn't require much prerequisite knowledge.
+- The content of the course is of great help in real-world programming projects.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
